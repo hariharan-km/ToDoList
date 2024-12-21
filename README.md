@@ -14,7 +14,7 @@ Microsoft Clarity : Enables performance tracking and insights
 ✔ Persistent task saving for a consistent user experience
 ✔ A clean, responsive layout adaptable to any device
 
-🌐 Try it here: https://lnkd.in/gK8dQSC5
+🌐 Try it here:   https://todoapphari.netlify.app/
 
 This project showcases my expertise in creating practical, user-friendly applications. I’m excited to hear your feedback and thoughts!
 
